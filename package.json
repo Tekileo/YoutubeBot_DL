@@ -1,0 +1,27 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "My own telegram bot for entertainment and learning porpuse",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "V1C7U5",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "brotli": "^1.3.3",
+    "cheerio": "^1.0.0-rc.12",
+    "cloudscraper": "^4.6.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "peer": "^1.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "systeminformation": "^5.17.12",
+    "youtube-dl-exec": "^2.4.6",
+    "ytdl-core": "^4.11.4"
+  }
+}

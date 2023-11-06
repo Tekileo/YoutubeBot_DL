@@ -1,2 +1,6 @@
-# YoutubeBot_DL
-For now is self use, im going to be giving update periodically. Thank you!
+# Anime Telegram Bot
+My own underdevelopment bot for telegram 
+
+# Current Commands
+<b>/hola</b> - Saluda al bot <br>
+<b>/siguiendo</b> - Animes que estoy siguiendo en este momento
